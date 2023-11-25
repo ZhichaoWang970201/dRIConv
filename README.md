@@ -1,4 +1,4 @@
-# dRIConv
+# dRIConv: Manufacturing process classification based on distance rotationally invariant convolutions
 This is the github code for the paper "Manufacturing process classification based on distance rotationally invariant convolutions"
 The environment for this code is old and as a result it is tough to generate. 
 For convenience, you can directly utilize "env.yml" through the following code "conda env create -f env.yml" to generate the virtual environment.
