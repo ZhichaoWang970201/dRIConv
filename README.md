@@ -9,3 +9,6 @@ You need to sample uniformly on the surface of the 3D model and utilize the samp
 I have created 3D models and sampling 1024 points in each model. 
 They are saved in the following position onedrive path and you should put them into "dRIConv/data/modelnet40_ply_hdf5_2048".
 "https://gtvault-my.sharepoint.com/:f:/g/personal/zwang945_gatech_edu/EhfNUOPsAjNGqO5Ma2bJrJ4Bo-Aa-9RV6ODqGk-HUFNesg?e=QSeaht"
+
+Training:
+`python3 train_val_cls.py`
